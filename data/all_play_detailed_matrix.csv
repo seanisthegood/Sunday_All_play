@@ -1,0 +1,925 @@
+Week,Team,Team_Score,Opponent,Opponent_Score,Result
+1,Chris Hart Attack,166.96,Very Polite Boys,161.66,Win
+1,Chris Hart Attack,166.96,Noah's Gold,146.1,Win
+1,Chris Hart Attack,166.96,East Palestine's Most Wanted,116.36,Win
+1,Chris Hart Attack,166.96,My Lung Hurts,122.68,Win
+1,Chris Hart Attack,166.96,Sean's Hart,159.7,Win
+1,Chris Hart Attack,166.96,CeeDeez Nuts,146.8,Win
+1,Chris Hart Attack,166.96,I’ll OKLA-OWN-YA,139.08,Win
+1,Chris Hart Attack,166.96,Aaron Rodgers Newest Victim,85.94,Win
+1,Chris Hart Attack,166.96,Sixty-Niners,93.06,Win
+1,Chris Hart Attack,166.96,Drake Maye,140.32,Win
+1,Chris Hart Attack,166.96,Wet Dawgs,131.72,Win
+1,Very Polite Boys,161.66,Chris Hart Attack,166.96,Loss
+1,Very Polite Boys,161.66,Noah's Gold,146.1,Win
+1,Very Polite Boys,161.66,East Palestine's Most Wanted,116.36,Win
+1,Very Polite Boys,161.66,My Lung Hurts,122.68,Win
+1,Very Polite Boys,161.66,Sean's Hart,159.7,Win
+1,Very Polite Boys,161.66,CeeDeez Nuts,146.8,Win
+1,Very Polite Boys,161.66,I’ll OKLA-OWN-YA,139.08,Win
+1,Very Polite Boys,161.66,Aaron Rodgers Newest Victim,85.94,Win
+1,Very Polite Boys,161.66,Sixty-Niners,93.06,Win
+1,Very Polite Boys,161.66,Drake Maye,140.32,Win
+1,Very Polite Boys,161.66,Wet Dawgs,131.72,Win
+1,Noah's Gold,146.1,Chris Hart Attack,166.96,Loss
+1,Noah's Gold,146.1,Very Polite Boys,161.66,Loss
+1,Noah's Gold,146.1,East Palestine's Most Wanted,116.36,Win
+1,Noah's Gold,146.1,My Lung Hurts,122.68,Win
+1,Noah's Gold,146.1,Sean's Hart,159.7,Loss
+1,Noah's Gold,146.1,CeeDeez Nuts,146.8,Loss
+1,Noah's Gold,146.1,I’ll OKLA-OWN-YA,139.08,Win
+1,Noah's Gold,146.1,Aaron Rodgers Newest Victim,85.94,Win
+1,Noah's Gold,146.1,Sixty-Niners,93.06,Win
+1,Noah's Gold,146.1,Drake Maye,140.32,Win
+1,Noah's Gold,146.1,Wet Dawgs,131.72,Win
+1,East Palestine's Most Wanted,116.36,Chris Hart Attack,166.96,Loss
+1,East Palestine's Most Wanted,116.36,Very Polite Boys,161.66,Loss
+1,East Palestine's Most Wanted,116.36,Noah's Gold,146.1,Loss
+1,East Palestine's Most Wanted,116.36,My Lung Hurts,122.68,Loss
+1,East Palestine's Most Wanted,116.36,Sean's Hart,159.7,Loss
+1,East Palestine's Most Wanted,116.36,CeeDeez Nuts,146.8,Loss
+1,East Palestine's Most Wanted,116.36,I’ll OKLA-OWN-YA,139.08,Loss
+1,East Palestine's Most Wanted,116.36,Aaron Rodgers Newest Victim,85.94,Win
+1,East Palestine's Most Wanted,116.36,Sixty-Niners,93.06,Win
+1,East Palestine's Most Wanted,116.36,Drake Maye,140.32,Loss
+1,East Palestine's Most Wanted,116.36,Wet Dawgs,131.72,Loss
+1,My Lung Hurts,122.68,Chris Hart Attack,166.96,Loss
+1,My Lung Hurts,122.68,Very Polite Boys,161.66,Loss
+1,My Lung Hurts,122.68,Noah's Gold,146.1,Loss
+1,My Lung Hurts,122.68,East Palestine's Most Wanted,116.36,Win
+1,My Lung Hurts,122.68,Sean's Hart,159.7,Loss
+1,My Lung Hurts,122.68,CeeDeez Nuts,146.8,Loss
+1,My Lung Hurts,122.68,I’ll OKLA-OWN-YA,139.08,Loss
+1,My Lung Hurts,122.68,Aaron Rodgers Newest Victim,85.94,Win
+1,My Lung Hurts,122.68,Sixty-Niners,93.06,Win
+1,My Lung Hurts,122.68,Drake Maye,140.32,Loss
+1,My Lung Hurts,122.68,Wet Dawgs,131.72,Loss
+1,Sean's Hart,159.7,Chris Hart Attack,166.96,Loss
+1,Sean's Hart,159.7,Very Polite Boys,161.66,Loss
+1,Sean's Hart,159.7,Noah's Gold,146.1,Win
+1,Sean's Hart,159.7,East Palestine's Most Wanted,116.36,Win
+1,Sean's Hart,159.7,My Lung Hurts,122.68,Win
+1,Sean's Hart,159.7,CeeDeez Nuts,146.8,Win
+1,Sean's Hart,159.7,I’ll OKLA-OWN-YA,139.08,Win
+1,Sean's Hart,159.7,Aaron Rodgers Newest Victim,85.94,Win
+1,Sean's Hart,159.7,Sixty-Niners,93.06,Win
+1,Sean's Hart,159.7,Drake Maye,140.32,Win
+1,Sean's Hart,159.7,Wet Dawgs,131.72,Win
+1,CeeDeez Nuts,146.8,Chris Hart Attack,166.96,Loss
+1,CeeDeez Nuts,146.8,Very Polite Boys,161.66,Loss
+1,CeeDeez Nuts,146.8,Noah's Gold,146.1,Win
+1,CeeDeez Nuts,146.8,East Palestine's Most Wanted,116.36,Win
+1,CeeDeez Nuts,146.8,My Lung Hurts,122.68,Win
+1,CeeDeez Nuts,146.8,Sean's Hart,159.7,Loss
+1,CeeDeez Nuts,146.8,I’ll OKLA-OWN-YA,139.08,Win
+1,CeeDeez Nuts,146.8,Aaron Rodgers Newest Victim,85.94,Win
+1,CeeDeez Nuts,146.8,Sixty-Niners,93.06,Win
+1,CeeDeez Nuts,146.8,Drake Maye,140.32,Win
+1,CeeDeez Nuts,146.8,Wet Dawgs,131.72,Win
+1,I’ll OKLA-OWN-YA,139.08,Chris Hart Attack,166.96,Loss
+1,I’ll OKLA-OWN-YA,139.08,Very Polite Boys,161.66,Loss
+1,I’ll OKLA-OWN-YA,139.08,Noah's Gold,146.1,Loss
+1,I’ll OKLA-OWN-YA,139.08,East Palestine's Most Wanted,116.36,Win
+1,I’ll OKLA-OWN-YA,139.08,My Lung Hurts,122.68,Win
+1,I’ll OKLA-OWN-YA,139.08,Sean's Hart,159.7,Loss
+1,I’ll OKLA-OWN-YA,139.08,CeeDeez Nuts,146.8,Loss
+1,I’ll OKLA-OWN-YA,139.08,Aaron Rodgers Newest Victim,85.94,Win
+1,I’ll OKLA-OWN-YA,139.08,Sixty-Niners,93.06,Win
+1,I’ll OKLA-OWN-YA,139.08,Drake Maye,140.32,Loss
+1,I’ll OKLA-OWN-YA,139.08,Wet Dawgs,131.72,Win
+1,Aaron Rodgers Newest Victim,85.94,Chris Hart Attack,166.96,Loss
+1,Aaron Rodgers Newest Victim,85.94,Very Polite Boys,161.66,Loss
+1,Aaron Rodgers Newest Victim,85.94,Noah's Gold,146.1,Loss
+1,Aaron Rodgers Newest Victim,85.94,East Palestine's Most Wanted,116.36,Loss
+1,Aaron Rodgers Newest Victim,85.94,My Lung Hurts,122.68,Loss
+1,Aaron Rodgers Newest Victim,85.94,Sean's Hart,159.7,Loss
+1,Aaron Rodgers Newest Victim,85.94,CeeDeez Nuts,146.8,Loss
+1,Aaron Rodgers Newest Victim,85.94,I’ll OKLA-OWN-YA,139.08,Loss
+1,Aaron Rodgers Newest Victim,85.94,Sixty-Niners,93.06,Loss
+1,Aaron Rodgers Newest Victim,85.94,Drake Maye,140.32,Loss
+1,Aaron Rodgers Newest Victim,85.94,Wet Dawgs,131.72,Loss
+1,Sixty-Niners,93.06,Chris Hart Attack,166.96,Loss
+1,Sixty-Niners,93.06,Very Polite Boys,161.66,Loss
+1,Sixty-Niners,93.06,Noah's Gold,146.1,Loss
+1,Sixty-Niners,93.06,East Palestine's Most Wanted,116.36,Loss
+1,Sixty-Niners,93.06,My Lung Hurts,122.68,Loss
+1,Sixty-Niners,93.06,Sean's Hart,159.7,Loss
+1,Sixty-Niners,93.06,CeeDeez Nuts,146.8,Loss
+1,Sixty-Niners,93.06,I’ll OKLA-OWN-YA,139.08,Loss
+1,Sixty-Niners,93.06,Aaron Rodgers Newest Victim,85.94,Win
+1,Sixty-Niners,93.06,Drake Maye,140.32,Loss
+1,Sixty-Niners,93.06,Wet Dawgs,131.72,Loss
+1,Drake Maye,140.32,Chris Hart Attack,166.96,Loss
+1,Drake Maye,140.32,Very Polite Boys,161.66,Loss
+1,Drake Maye,140.32,Noah's Gold,146.1,Loss
+1,Drake Maye,140.32,East Palestine's Most Wanted,116.36,Win
+1,Drake Maye,140.32,My Lung Hurts,122.68,Win
+1,Drake Maye,140.32,Sean's Hart,159.7,Loss
+1,Drake Maye,140.32,CeeDeez Nuts,146.8,Loss
+1,Drake Maye,140.32,I’ll OKLA-OWN-YA,139.08,Win
+1,Drake Maye,140.32,Aaron Rodgers Newest Victim,85.94,Win
+1,Drake Maye,140.32,Sixty-Niners,93.06,Win
+1,Drake Maye,140.32,Wet Dawgs,131.72,Win
+1,Wet Dawgs,131.72,Chris Hart Attack,166.96,Loss
+1,Wet Dawgs,131.72,Very Polite Boys,161.66,Loss
+1,Wet Dawgs,131.72,Noah's Gold,146.1,Loss
+1,Wet Dawgs,131.72,East Palestine's Most Wanted,116.36,Win
+1,Wet Dawgs,131.72,My Lung Hurts,122.68,Win
+1,Wet Dawgs,131.72,Sean's Hart,159.7,Loss
+1,Wet Dawgs,131.72,CeeDeez Nuts,146.8,Loss
+1,Wet Dawgs,131.72,I’ll OKLA-OWN-YA,139.08,Loss
+1,Wet Dawgs,131.72,Aaron Rodgers Newest Victim,85.94,Win
+1,Wet Dawgs,131.72,Sixty-Niners,93.06,Win
+1,Wet Dawgs,131.72,Drake Maye,140.32,Loss
+2,Daddy Fat Sacks,83.76,East Palestine's Most Wanted,120.38,Loss
+2,Daddy Fat Sacks,83.76,Sean's Hart,149.54,Loss
+2,Daddy Fat Sacks,83.76,Chris Hart Attack,104.22,Loss
+2,Daddy Fat Sacks,83.76,I’ll OKLA-OWN-YA,127.1,Loss
+2,Daddy Fat Sacks,83.76,Very Polite Boys,129.14,Loss
+2,Daddy Fat Sacks,83.76,Wet Dawgs,169.28,Loss
+2,Daddy Fat Sacks,83.76,Noah's Gold,115.14,Loss
+2,Daddy Fat Sacks,83.76,Aaron Rodgers Newest Victim,139.04,Loss
+2,Daddy Fat Sacks,83.76,My Lung Hurts,107.18,Loss
+2,Daddy Fat Sacks,83.76,Drake Maye,158.54,Loss
+2,Daddy Fat Sacks,83.76,CeeDeez Nuts,157.46,Loss
+2,East Palestine's Most Wanted,120.38,Daddy Fat Sacks,83.76,Win
+2,East Palestine's Most Wanted,120.38,Sean's Hart,149.54,Loss
+2,East Palestine's Most Wanted,120.38,Chris Hart Attack,104.22,Win
+2,East Palestine's Most Wanted,120.38,I’ll OKLA-OWN-YA,127.1,Loss
+2,East Palestine's Most Wanted,120.38,Very Polite Boys,129.14,Loss
+2,East Palestine's Most Wanted,120.38,Wet Dawgs,169.28,Loss
+2,East Palestine's Most Wanted,120.38,Noah's Gold,115.14,Win
+2,East Palestine's Most Wanted,120.38,Aaron Rodgers Newest Victim,139.04,Loss
+2,East Palestine's Most Wanted,120.38,My Lung Hurts,107.18,Win
+2,East Palestine's Most Wanted,120.38,Drake Maye,158.54,Loss
+2,East Palestine's Most Wanted,120.38,CeeDeez Nuts,157.46,Loss
+2,Sean's Hart,149.54,Daddy Fat Sacks,83.76,Win
+2,Sean's Hart,149.54,East Palestine's Most Wanted,120.38,Win
+2,Sean's Hart,149.54,Chris Hart Attack,104.22,Win
+2,Sean's Hart,149.54,I’ll OKLA-OWN-YA,127.1,Win
+2,Sean's Hart,149.54,Very Polite Boys,129.14,Win
+2,Sean's Hart,149.54,Wet Dawgs,169.28,Loss
+2,Sean's Hart,149.54,Noah's Gold,115.14,Win
+2,Sean's Hart,149.54,Aaron Rodgers Newest Victim,139.04,Win
+2,Sean's Hart,149.54,My Lung Hurts,107.18,Win
+2,Sean's Hart,149.54,Drake Maye,158.54,Loss
+2,Sean's Hart,149.54,CeeDeez Nuts,157.46,Loss
+2,Chris Hart Attack,104.22,Daddy Fat Sacks,83.76,Win
+2,Chris Hart Attack,104.22,East Palestine's Most Wanted,120.38,Loss
+2,Chris Hart Attack,104.22,Sean's Hart,149.54,Loss
+2,Chris Hart Attack,104.22,I’ll OKLA-OWN-YA,127.1,Loss
+2,Chris Hart Attack,104.22,Very Polite Boys,129.14,Loss
+2,Chris Hart Attack,104.22,Wet Dawgs,169.28,Loss
+2,Chris Hart Attack,104.22,Noah's Gold,115.14,Loss
+2,Chris Hart Attack,104.22,Aaron Rodgers Newest Victim,139.04,Loss
+2,Chris Hart Attack,104.22,My Lung Hurts,107.18,Loss
+2,Chris Hart Attack,104.22,Drake Maye,158.54,Loss
+2,Chris Hart Attack,104.22,CeeDeez Nuts,157.46,Loss
+2,I’ll OKLA-OWN-YA,127.1,Daddy Fat Sacks,83.76,Win
+2,I’ll OKLA-OWN-YA,127.1,East Palestine's Most Wanted,120.38,Win
+2,I’ll OKLA-OWN-YA,127.1,Sean's Hart,149.54,Loss
+2,I’ll OKLA-OWN-YA,127.1,Chris Hart Attack,104.22,Win
+2,I’ll OKLA-OWN-YA,127.1,Very Polite Boys,129.14,Loss
+2,I’ll OKLA-OWN-YA,127.1,Wet Dawgs,169.28,Loss
+2,I’ll OKLA-OWN-YA,127.1,Noah's Gold,115.14,Win
+2,I’ll OKLA-OWN-YA,127.1,Aaron Rodgers Newest Victim,139.04,Loss
+2,I’ll OKLA-OWN-YA,127.1,My Lung Hurts,107.18,Win
+2,I’ll OKLA-OWN-YA,127.1,Drake Maye,158.54,Loss
+2,I’ll OKLA-OWN-YA,127.1,CeeDeez Nuts,157.46,Loss
+2,Very Polite Boys,129.14,Daddy Fat Sacks,83.76,Win
+2,Very Polite Boys,129.14,East Palestine's Most Wanted,120.38,Win
+2,Very Polite Boys,129.14,Sean's Hart,149.54,Loss
+2,Very Polite Boys,129.14,Chris Hart Attack,104.22,Win
+2,Very Polite Boys,129.14,I’ll OKLA-OWN-YA,127.1,Win
+2,Very Polite Boys,129.14,Wet Dawgs,169.28,Loss
+2,Very Polite Boys,129.14,Noah's Gold,115.14,Win
+2,Very Polite Boys,129.14,Aaron Rodgers Newest Victim,139.04,Loss
+2,Very Polite Boys,129.14,My Lung Hurts,107.18,Win
+2,Very Polite Boys,129.14,Drake Maye,158.54,Loss
+2,Very Polite Boys,129.14,CeeDeez Nuts,157.46,Loss
+2,Wet Dawgs,169.28,Daddy Fat Sacks,83.76,Win
+2,Wet Dawgs,169.28,East Palestine's Most Wanted,120.38,Win
+2,Wet Dawgs,169.28,Sean's Hart,149.54,Win
+2,Wet Dawgs,169.28,Chris Hart Attack,104.22,Win
+2,Wet Dawgs,169.28,I’ll OKLA-OWN-YA,127.1,Win
+2,Wet Dawgs,169.28,Very Polite Boys,129.14,Win
+2,Wet Dawgs,169.28,Noah's Gold,115.14,Win
+2,Wet Dawgs,169.28,Aaron Rodgers Newest Victim,139.04,Win
+2,Wet Dawgs,169.28,My Lung Hurts,107.18,Win
+2,Wet Dawgs,169.28,Drake Maye,158.54,Win
+2,Wet Dawgs,169.28,CeeDeez Nuts,157.46,Win
+2,Noah's Gold,115.14,Daddy Fat Sacks,83.76,Win
+2,Noah's Gold,115.14,East Palestine's Most Wanted,120.38,Loss
+2,Noah's Gold,115.14,Sean's Hart,149.54,Loss
+2,Noah's Gold,115.14,Chris Hart Attack,104.22,Win
+2,Noah's Gold,115.14,I’ll OKLA-OWN-YA,127.1,Loss
+2,Noah's Gold,115.14,Very Polite Boys,129.14,Loss
+2,Noah's Gold,115.14,Wet Dawgs,169.28,Loss
+2,Noah's Gold,115.14,Aaron Rodgers Newest Victim,139.04,Loss
+2,Noah's Gold,115.14,My Lung Hurts,107.18,Win
+2,Noah's Gold,115.14,Drake Maye,158.54,Loss
+2,Noah's Gold,115.14,CeeDeez Nuts,157.46,Loss
+2,Aaron Rodgers Newest Victim,139.04,Daddy Fat Sacks,83.76,Win
+2,Aaron Rodgers Newest Victim,139.04,East Palestine's Most Wanted,120.38,Win
+2,Aaron Rodgers Newest Victim,139.04,Sean's Hart,149.54,Loss
+2,Aaron Rodgers Newest Victim,139.04,Chris Hart Attack,104.22,Win
+2,Aaron Rodgers Newest Victim,139.04,I’ll OKLA-OWN-YA,127.1,Win
+2,Aaron Rodgers Newest Victim,139.04,Very Polite Boys,129.14,Win
+2,Aaron Rodgers Newest Victim,139.04,Wet Dawgs,169.28,Loss
+2,Aaron Rodgers Newest Victim,139.04,Noah's Gold,115.14,Win
+2,Aaron Rodgers Newest Victim,139.04,My Lung Hurts,107.18,Win
+2,Aaron Rodgers Newest Victim,139.04,Drake Maye,158.54,Loss
+2,Aaron Rodgers Newest Victim,139.04,CeeDeez Nuts,157.46,Loss
+2,My Lung Hurts,107.18,Daddy Fat Sacks,83.76,Win
+2,My Lung Hurts,107.18,East Palestine's Most Wanted,120.38,Loss
+2,My Lung Hurts,107.18,Sean's Hart,149.54,Loss
+2,My Lung Hurts,107.18,Chris Hart Attack,104.22,Win
+2,My Lung Hurts,107.18,I’ll OKLA-OWN-YA,127.1,Loss
+2,My Lung Hurts,107.18,Very Polite Boys,129.14,Loss
+2,My Lung Hurts,107.18,Wet Dawgs,169.28,Loss
+2,My Lung Hurts,107.18,Noah's Gold,115.14,Loss
+2,My Lung Hurts,107.18,Aaron Rodgers Newest Victim,139.04,Loss
+2,My Lung Hurts,107.18,Drake Maye,158.54,Loss
+2,My Lung Hurts,107.18,CeeDeez Nuts,157.46,Loss
+2,Drake Maye,158.54,Daddy Fat Sacks,83.76,Win
+2,Drake Maye,158.54,East Palestine's Most Wanted,120.38,Win
+2,Drake Maye,158.54,Sean's Hart,149.54,Win
+2,Drake Maye,158.54,Chris Hart Attack,104.22,Win
+2,Drake Maye,158.54,I’ll OKLA-OWN-YA,127.1,Win
+2,Drake Maye,158.54,Very Polite Boys,129.14,Win
+2,Drake Maye,158.54,Wet Dawgs,169.28,Loss
+2,Drake Maye,158.54,Noah's Gold,115.14,Win
+2,Drake Maye,158.54,Aaron Rodgers Newest Victim,139.04,Win
+2,Drake Maye,158.54,My Lung Hurts,107.18,Win
+2,Drake Maye,158.54,CeeDeez Nuts,157.46,Win
+2,CeeDeez Nuts,157.46,Daddy Fat Sacks,83.76,Win
+2,CeeDeez Nuts,157.46,East Palestine's Most Wanted,120.38,Win
+2,CeeDeez Nuts,157.46,Sean's Hart,149.54,Win
+2,CeeDeez Nuts,157.46,Chris Hart Attack,104.22,Win
+2,CeeDeez Nuts,157.46,I’ll OKLA-OWN-YA,127.1,Win
+2,CeeDeez Nuts,157.46,Very Polite Boys,129.14,Win
+2,CeeDeez Nuts,157.46,Wet Dawgs,169.28,Loss
+2,CeeDeez Nuts,157.46,Noah's Gold,115.14,Win
+2,CeeDeez Nuts,157.46,Aaron Rodgers Newest Victim,139.04,Win
+2,CeeDeez Nuts,157.46,My Lung Hurts,107.18,Win
+2,CeeDeez Nuts,157.46,Drake Maye,158.54,Loss
+3,Sean's Hart,167.32,I’ll OKLA-OWN-YA,141.1,Win
+3,Sean's Hart,167.32,Daddy Fat Sacks,161.92,Win
+3,Sean's Hart,167.32,Sixty-Niners,115.1,Win
+3,Sean's Hart,167.32,East Palestine's Most Wanted,105.84,Win
+3,Sean's Hart,167.32,Wet Dawgs,148.24,Win
+3,Sean's Hart,167.32,Chris Hart Attack,140.04,Win
+3,Sean's Hart,167.32,Aaron Rodgers Newest Victim,119.94,Win
+3,Sean's Hart,167.32,Very Polite Boys,135.82,Win
+3,Sean's Hart,167.32,Drake Maye,126.68,Win
+3,Sean's Hart,167.32,Noah's Gold,108.34,Win
+3,Sean's Hart,167.32,CeeDeez Nuts,151.68,Win
+3,I’ll OKLA-OWN-YA,141.1,Sean's Hart,167.32,Loss
+3,I’ll OKLA-OWN-YA,141.1,Daddy Fat Sacks,161.92,Loss
+3,I’ll OKLA-OWN-YA,141.1,Sixty-Niners,115.1,Win
+3,I’ll OKLA-OWN-YA,141.1,East Palestine's Most Wanted,105.84,Win
+3,I’ll OKLA-OWN-YA,141.1,Wet Dawgs,148.24,Loss
+3,I’ll OKLA-OWN-YA,141.1,Chris Hart Attack,140.04,Win
+3,I’ll OKLA-OWN-YA,141.1,Aaron Rodgers Newest Victim,119.94,Win
+3,I’ll OKLA-OWN-YA,141.1,Very Polite Boys,135.82,Win
+3,I’ll OKLA-OWN-YA,141.1,Drake Maye,126.68,Win
+3,I’ll OKLA-OWN-YA,141.1,Noah's Gold,108.34,Win
+3,I’ll OKLA-OWN-YA,141.1,CeeDeez Nuts,151.68,Loss
+3,Daddy Fat Sacks,161.92,Sean's Hart,167.32,Loss
+3,Daddy Fat Sacks,161.92,I’ll OKLA-OWN-YA,141.1,Win
+3,Daddy Fat Sacks,161.92,Sixty-Niners,115.1,Win
+3,Daddy Fat Sacks,161.92,East Palestine's Most Wanted,105.84,Win
+3,Daddy Fat Sacks,161.92,Wet Dawgs,148.24,Win
+3,Daddy Fat Sacks,161.92,Chris Hart Attack,140.04,Win
+3,Daddy Fat Sacks,161.92,Aaron Rodgers Newest Victim,119.94,Win
+3,Daddy Fat Sacks,161.92,Very Polite Boys,135.82,Win
+3,Daddy Fat Sacks,161.92,Drake Maye,126.68,Win
+3,Daddy Fat Sacks,161.92,Noah's Gold,108.34,Win
+3,Daddy Fat Sacks,161.92,CeeDeez Nuts,151.68,Win
+3,Sixty-Niners,115.1,Sean's Hart,167.32,Loss
+3,Sixty-Niners,115.1,I’ll OKLA-OWN-YA,141.1,Loss
+3,Sixty-Niners,115.1,Daddy Fat Sacks,161.92,Loss
+3,Sixty-Niners,115.1,East Palestine's Most Wanted,105.84,Win
+3,Sixty-Niners,115.1,Wet Dawgs,148.24,Loss
+3,Sixty-Niners,115.1,Chris Hart Attack,140.04,Loss
+3,Sixty-Niners,115.1,Aaron Rodgers Newest Victim,119.94,Loss
+3,Sixty-Niners,115.1,Very Polite Boys,135.82,Loss
+3,Sixty-Niners,115.1,Drake Maye,126.68,Loss
+3,Sixty-Niners,115.1,Noah's Gold,108.34,Win
+3,Sixty-Niners,115.1,CeeDeez Nuts,151.68,Loss
+3,East Palestine's Most Wanted,105.84,Sean's Hart,167.32,Loss
+3,East Palestine's Most Wanted,105.84,I’ll OKLA-OWN-YA,141.1,Loss
+3,East Palestine's Most Wanted,105.84,Daddy Fat Sacks,161.92,Loss
+3,East Palestine's Most Wanted,105.84,Sixty-Niners,115.1,Loss
+3,East Palestine's Most Wanted,105.84,Wet Dawgs,148.24,Loss
+3,East Palestine's Most Wanted,105.84,Chris Hart Attack,140.04,Loss
+3,East Palestine's Most Wanted,105.84,Aaron Rodgers Newest Victim,119.94,Loss
+3,East Palestine's Most Wanted,105.84,Very Polite Boys,135.82,Loss
+3,East Palestine's Most Wanted,105.84,Drake Maye,126.68,Loss
+3,East Palestine's Most Wanted,105.84,Noah's Gold,108.34,Loss
+3,East Palestine's Most Wanted,105.84,CeeDeez Nuts,151.68,Loss
+3,Wet Dawgs,148.24,Sean's Hart,167.32,Loss
+3,Wet Dawgs,148.24,I’ll OKLA-OWN-YA,141.1,Win
+3,Wet Dawgs,148.24,Daddy Fat Sacks,161.92,Loss
+3,Wet Dawgs,148.24,Sixty-Niners,115.1,Win
+3,Wet Dawgs,148.24,East Palestine's Most Wanted,105.84,Win
+3,Wet Dawgs,148.24,Chris Hart Attack,140.04,Win
+3,Wet Dawgs,148.24,Aaron Rodgers Newest Victim,119.94,Win
+3,Wet Dawgs,148.24,Very Polite Boys,135.82,Win
+3,Wet Dawgs,148.24,Drake Maye,126.68,Win
+3,Wet Dawgs,148.24,Noah's Gold,108.34,Win
+3,Wet Dawgs,148.24,CeeDeez Nuts,151.68,Loss
+3,Chris Hart Attack,140.04,Sean's Hart,167.32,Loss
+3,Chris Hart Attack,140.04,I’ll OKLA-OWN-YA,141.1,Loss
+3,Chris Hart Attack,140.04,Daddy Fat Sacks,161.92,Loss
+3,Chris Hart Attack,140.04,Sixty-Niners,115.1,Win
+3,Chris Hart Attack,140.04,East Palestine's Most Wanted,105.84,Win
+3,Chris Hart Attack,140.04,Wet Dawgs,148.24,Loss
+3,Chris Hart Attack,140.04,Aaron Rodgers Newest Victim,119.94,Win
+3,Chris Hart Attack,140.04,Very Polite Boys,135.82,Win
+3,Chris Hart Attack,140.04,Drake Maye,126.68,Win
+3,Chris Hart Attack,140.04,Noah's Gold,108.34,Win
+3,Chris Hart Attack,140.04,CeeDeez Nuts,151.68,Loss
+3,Aaron Rodgers Newest Victim,119.94,Sean's Hart,167.32,Loss
+3,Aaron Rodgers Newest Victim,119.94,I’ll OKLA-OWN-YA,141.1,Loss
+3,Aaron Rodgers Newest Victim,119.94,Daddy Fat Sacks,161.92,Loss
+3,Aaron Rodgers Newest Victim,119.94,Sixty-Niners,115.1,Win
+3,Aaron Rodgers Newest Victim,119.94,East Palestine's Most Wanted,105.84,Win
+3,Aaron Rodgers Newest Victim,119.94,Wet Dawgs,148.24,Loss
+3,Aaron Rodgers Newest Victim,119.94,Chris Hart Attack,140.04,Loss
+3,Aaron Rodgers Newest Victim,119.94,Very Polite Boys,135.82,Loss
+3,Aaron Rodgers Newest Victim,119.94,Drake Maye,126.68,Loss
+3,Aaron Rodgers Newest Victim,119.94,Noah's Gold,108.34,Win
+3,Aaron Rodgers Newest Victim,119.94,CeeDeez Nuts,151.68,Loss
+3,Very Polite Boys,135.82,Sean's Hart,167.32,Loss
+3,Very Polite Boys,135.82,I’ll OKLA-OWN-YA,141.1,Loss
+3,Very Polite Boys,135.82,Daddy Fat Sacks,161.92,Loss
+3,Very Polite Boys,135.82,Sixty-Niners,115.1,Win
+3,Very Polite Boys,135.82,East Palestine's Most Wanted,105.84,Win
+3,Very Polite Boys,135.82,Wet Dawgs,148.24,Loss
+3,Very Polite Boys,135.82,Chris Hart Attack,140.04,Loss
+3,Very Polite Boys,135.82,Aaron Rodgers Newest Victim,119.94,Win
+3,Very Polite Boys,135.82,Drake Maye,126.68,Win
+3,Very Polite Boys,135.82,Noah's Gold,108.34,Win
+3,Very Polite Boys,135.82,CeeDeez Nuts,151.68,Loss
+3,Drake Maye,126.68,Sean's Hart,167.32,Loss
+3,Drake Maye,126.68,I’ll OKLA-OWN-YA,141.1,Loss
+3,Drake Maye,126.68,Daddy Fat Sacks,161.92,Loss
+3,Drake Maye,126.68,Sixty-Niners,115.1,Win
+3,Drake Maye,126.68,East Palestine's Most Wanted,105.84,Win
+3,Drake Maye,126.68,Wet Dawgs,148.24,Loss
+3,Drake Maye,126.68,Chris Hart Attack,140.04,Loss
+3,Drake Maye,126.68,Aaron Rodgers Newest Victim,119.94,Win
+3,Drake Maye,126.68,Very Polite Boys,135.82,Loss
+3,Drake Maye,126.68,Noah's Gold,108.34,Win
+3,Drake Maye,126.68,CeeDeez Nuts,151.68,Loss
+3,Noah's Gold,108.34,Sean's Hart,167.32,Loss
+3,Noah's Gold,108.34,I’ll OKLA-OWN-YA,141.1,Loss
+3,Noah's Gold,108.34,Daddy Fat Sacks,161.92,Loss
+3,Noah's Gold,108.34,Sixty-Niners,115.1,Loss
+3,Noah's Gold,108.34,East Palestine's Most Wanted,105.84,Win
+3,Noah's Gold,108.34,Wet Dawgs,148.24,Loss
+3,Noah's Gold,108.34,Chris Hart Attack,140.04,Loss
+3,Noah's Gold,108.34,Aaron Rodgers Newest Victim,119.94,Loss
+3,Noah's Gold,108.34,Very Polite Boys,135.82,Loss
+3,Noah's Gold,108.34,Drake Maye,126.68,Loss
+3,Noah's Gold,108.34,CeeDeez Nuts,151.68,Loss
+3,CeeDeez Nuts,151.68,Sean's Hart,167.32,Loss
+3,CeeDeez Nuts,151.68,I’ll OKLA-OWN-YA,141.1,Win
+3,CeeDeez Nuts,151.68,Daddy Fat Sacks,161.92,Loss
+3,CeeDeez Nuts,151.68,Sixty-Niners,115.1,Win
+3,CeeDeez Nuts,151.68,East Palestine's Most Wanted,105.84,Win
+3,CeeDeez Nuts,151.68,Wet Dawgs,148.24,Win
+3,CeeDeez Nuts,151.68,Chris Hart Attack,140.04,Win
+3,CeeDeez Nuts,151.68,Aaron Rodgers Newest Victim,119.94,Win
+3,CeeDeez Nuts,151.68,Very Polite Boys,135.82,Win
+3,CeeDeez Nuts,151.68,Drake Maye,126.68,Win
+3,CeeDeez Nuts,151.68,Noah's Gold,108.34,Win
+4,Sixty-Niners,104.08,Wet Dawgs,133.16,Loss
+4,Sixty-Niners,104.08,Aaron Rodgers Newest Victim,101.2,Win
+4,Sixty-Niners,104.08,Sean's Hart,135.84,Loss
+4,Sixty-Niners,104.08,Drake Maye,106.08,Loss
+4,Sixty-Niners,104.08,I’ll OKLA-OWN-YA,156.72,Loss
+4,Sixty-Niners,104.08,My Lung Hurts,133.98,Loss
+4,Sixty-Niners,104.08,Daddy Fat Sacks,150.76,Loss
+4,Sixty-Niners,104.08,CeeDeez Nuts,170.8,Loss
+4,Sixty-Niners,104.08,East Palestine's Most Wanted,160.3,Loss
+4,Sixty-Niners,104.08,Noah's Gold,146.44,Loss
+4,Sixty-Niners,104.08,Very Polite Boys,147.6,Loss
+4,Wet Dawgs,133.16,Sixty-Niners,104.08,Win
+4,Wet Dawgs,133.16,Aaron Rodgers Newest Victim,101.2,Win
+4,Wet Dawgs,133.16,Sean's Hart,135.84,Loss
+4,Wet Dawgs,133.16,Drake Maye,106.08,Win
+4,Wet Dawgs,133.16,I’ll OKLA-OWN-YA,156.72,Loss
+4,Wet Dawgs,133.16,My Lung Hurts,133.98,Loss
+4,Wet Dawgs,133.16,Daddy Fat Sacks,150.76,Loss
+4,Wet Dawgs,133.16,CeeDeez Nuts,170.8,Loss
+4,Wet Dawgs,133.16,East Palestine's Most Wanted,160.3,Loss
+4,Wet Dawgs,133.16,Noah's Gold,146.44,Loss
+4,Wet Dawgs,133.16,Very Polite Boys,147.6,Loss
+4,Aaron Rodgers Newest Victim,101.2,Sixty-Niners,104.08,Loss
+4,Aaron Rodgers Newest Victim,101.2,Wet Dawgs,133.16,Loss
+4,Aaron Rodgers Newest Victim,101.2,Sean's Hart,135.84,Loss
+4,Aaron Rodgers Newest Victim,101.2,Drake Maye,106.08,Loss
+4,Aaron Rodgers Newest Victim,101.2,I’ll OKLA-OWN-YA,156.72,Loss
+4,Aaron Rodgers Newest Victim,101.2,My Lung Hurts,133.98,Loss
+4,Aaron Rodgers Newest Victim,101.2,Daddy Fat Sacks,150.76,Loss
+4,Aaron Rodgers Newest Victim,101.2,CeeDeez Nuts,170.8,Loss
+4,Aaron Rodgers Newest Victim,101.2,East Palestine's Most Wanted,160.3,Loss
+4,Aaron Rodgers Newest Victim,101.2,Noah's Gold,146.44,Loss
+4,Aaron Rodgers Newest Victim,101.2,Very Polite Boys,147.6,Loss
+4,Sean's Hart,135.84,Sixty-Niners,104.08,Win
+4,Sean's Hart,135.84,Wet Dawgs,133.16,Win
+4,Sean's Hart,135.84,Aaron Rodgers Newest Victim,101.2,Win
+4,Sean's Hart,135.84,Drake Maye,106.08,Win
+4,Sean's Hart,135.84,I’ll OKLA-OWN-YA,156.72,Loss
+4,Sean's Hart,135.84,My Lung Hurts,133.98,Win
+4,Sean's Hart,135.84,Daddy Fat Sacks,150.76,Loss
+4,Sean's Hart,135.84,CeeDeez Nuts,170.8,Loss
+4,Sean's Hart,135.84,East Palestine's Most Wanted,160.3,Loss
+4,Sean's Hart,135.84,Noah's Gold,146.44,Loss
+4,Sean's Hart,135.84,Very Polite Boys,147.6,Loss
+4,Drake Maye,106.08,Sixty-Niners,104.08,Win
+4,Drake Maye,106.08,Wet Dawgs,133.16,Loss
+4,Drake Maye,106.08,Aaron Rodgers Newest Victim,101.2,Win
+4,Drake Maye,106.08,Sean's Hart,135.84,Loss
+4,Drake Maye,106.08,I’ll OKLA-OWN-YA,156.72,Loss
+4,Drake Maye,106.08,My Lung Hurts,133.98,Loss
+4,Drake Maye,106.08,Daddy Fat Sacks,150.76,Loss
+4,Drake Maye,106.08,CeeDeez Nuts,170.8,Loss
+4,Drake Maye,106.08,East Palestine's Most Wanted,160.3,Loss
+4,Drake Maye,106.08,Noah's Gold,146.44,Loss
+4,Drake Maye,106.08,Very Polite Boys,147.6,Loss
+4,I’ll OKLA-OWN-YA,156.72,Sixty-Niners,104.08,Win
+4,I’ll OKLA-OWN-YA,156.72,Wet Dawgs,133.16,Win
+4,I’ll OKLA-OWN-YA,156.72,Aaron Rodgers Newest Victim,101.2,Win
+4,I’ll OKLA-OWN-YA,156.72,Sean's Hart,135.84,Win
+4,I’ll OKLA-OWN-YA,156.72,Drake Maye,106.08,Win
+4,I’ll OKLA-OWN-YA,156.72,My Lung Hurts,133.98,Win
+4,I’ll OKLA-OWN-YA,156.72,Daddy Fat Sacks,150.76,Win
+4,I’ll OKLA-OWN-YA,156.72,CeeDeez Nuts,170.8,Loss
+4,I’ll OKLA-OWN-YA,156.72,East Palestine's Most Wanted,160.3,Loss
+4,I’ll OKLA-OWN-YA,156.72,Noah's Gold,146.44,Win
+4,I’ll OKLA-OWN-YA,156.72,Very Polite Boys,147.6,Win
+4,My Lung Hurts,133.98,Sixty-Niners,104.08,Win
+4,My Lung Hurts,133.98,Wet Dawgs,133.16,Win
+4,My Lung Hurts,133.98,Aaron Rodgers Newest Victim,101.2,Win
+4,My Lung Hurts,133.98,Sean's Hart,135.84,Loss
+4,My Lung Hurts,133.98,Drake Maye,106.08,Win
+4,My Lung Hurts,133.98,I’ll OKLA-OWN-YA,156.72,Loss
+4,My Lung Hurts,133.98,Daddy Fat Sacks,150.76,Loss
+4,My Lung Hurts,133.98,CeeDeez Nuts,170.8,Loss
+4,My Lung Hurts,133.98,East Palestine's Most Wanted,160.3,Loss
+4,My Lung Hurts,133.98,Noah's Gold,146.44,Loss
+4,My Lung Hurts,133.98,Very Polite Boys,147.6,Loss
+4,Daddy Fat Sacks,150.76,Sixty-Niners,104.08,Win
+4,Daddy Fat Sacks,150.76,Wet Dawgs,133.16,Win
+4,Daddy Fat Sacks,150.76,Aaron Rodgers Newest Victim,101.2,Win
+4,Daddy Fat Sacks,150.76,Sean's Hart,135.84,Win
+4,Daddy Fat Sacks,150.76,Drake Maye,106.08,Win
+4,Daddy Fat Sacks,150.76,I’ll OKLA-OWN-YA,156.72,Loss
+4,Daddy Fat Sacks,150.76,My Lung Hurts,133.98,Win
+4,Daddy Fat Sacks,150.76,CeeDeez Nuts,170.8,Loss
+4,Daddy Fat Sacks,150.76,East Palestine's Most Wanted,160.3,Loss
+4,Daddy Fat Sacks,150.76,Noah's Gold,146.44,Win
+4,Daddy Fat Sacks,150.76,Very Polite Boys,147.6,Win
+4,CeeDeez Nuts,170.8,Sixty-Niners,104.08,Win
+4,CeeDeez Nuts,170.8,Wet Dawgs,133.16,Win
+4,CeeDeez Nuts,170.8,Aaron Rodgers Newest Victim,101.2,Win
+4,CeeDeez Nuts,170.8,Sean's Hart,135.84,Win
+4,CeeDeez Nuts,170.8,Drake Maye,106.08,Win
+4,CeeDeez Nuts,170.8,I’ll OKLA-OWN-YA,156.72,Win
+4,CeeDeez Nuts,170.8,My Lung Hurts,133.98,Win
+4,CeeDeez Nuts,170.8,Daddy Fat Sacks,150.76,Win
+4,CeeDeez Nuts,170.8,East Palestine's Most Wanted,160.3,Win
+4,CeeDeez Nuts,170.8,Noah's Gold,146.44,Win
+4,CeeDeez Nuts,170.8,Very Polite Boys,147.6,Win
+4,East Palestine's Most Wanted,160.3,Sixty-Niners,104.08,Win
+4,East Palestine's Most Wanted,160.3,Wet Dawgs,133.16,Win
+4,East Palestine's Most Wanted,160.3,Aaron Rodgers Newest Victim,101.2,Win
+4,East Palestine's Most Wanted,160.3,Sean's Hart,135.84,Win
+4,East Palestine's Most Wanted,160.3,Drake Maye,106.08,Win
+4,East Palestine's Most Wanted,160.3,I’ll OKLA-OWN-YA,156.72,Win
+4,East Palestine's Most Wanted,160.3,My Lung Hurts,133.98,Win
+4,East Palestine's Most Wanted,160.3,Daddy Fat Sacks,150.76,Win
+4,East Palestine's Most Wanted,160.3,CeeDeez Nuts,170.8,Loss
+4,East Palestine's Most Wanted,160.3,Noah's Gold,146.44,Win
+4,East Palestine's Most Wanted,160.3,Very Polite Boys,147.6,Win
+4,Noah's Gold,146.44,Sixty-Niners,104.08,Win
+4,Noah's Gold,146.44,Wet Dawgs,133.16,Win
+4,Noah's Gold,146.44,Aaron Rodgers Newest Victim,101.2,Win
+4,Noah's Gold,146.44,Sean's Hart,135.84,Win
+4,Noah's Gold,146.44,Drake Maye,106.08,Win
+4,Noah's Gold,146.44,I’ll OKLA-OWN-YA,156.72,Loss
+4,Noah's Gold,146.44,My Lung Hurts,133.98,Win
+4,Noah's Gold,146.44,Daddy Fat Sacks,150.76,Loss
+4,Noah's Gold,146.44,CeeDeez Nuts,170.8,Loss
+4,Noah's Gold,146.44,East Palestine's Most Wanted,160.3,Loss
+4,Noah's Gold,146.44,Very Polite Boys,147.6,Loss
+4,Very Polite Boys,147.6,Sixty-Niners,104.08,Win
+4,Very Polite Boys,147.6,Wet Dawgs,133.16,Win
+4,Very Polite Boys,147.6,Aaron Rodgers Newest Victim,101.2,Win
+4,Very Polite Boys,147.6,Sean's Hart,135.84,Win
+4,Very Polite Boys,147.6,Drake Maye,106.08,Win
+4,Very Polite Boys,147.6,I’ll OKLA-OWN-YA,156.72,Loss
+4,Very Polite Boys,147.6,My Lung Hurts,133.98,Win
+4,Very Polite Boys,147.6,Daddy Fat Sacks,150.76,Loss
+4,Very Polite Boys,147.6,CeeDeez Nuts,170.8,Loss
+4,Very Polite Boys,147.6,East Palestine's Most Wanted,160.3,Loss
+4,Very Polite Boys,147.6,Noah's Gold,146.44,Win
+5,Aaron Rodgers Newest Victim,173.76,Drake Maye,166.36,Win
+5,Aaron Rodgers Newest Victim,173.76,Sixty-Niners,102.4,Win
+5,Aaron Rodgers Newest Victim,173.76,My Lung Hurts,99.18,Win
+5,Aaron Rodgers Newest Victim,173.76,Wet Dawgs,136.22,Win
+5,Aaron Rodgers Newest Victim,173.76,CeeDeez Nuts,124.08,Win
+5,Aaron Rodgers Newest Victim,173.76,I’ll OKLA-OWN-YA,108.86,Win
+5,Aaron Rodgers Newest Victim,173.76,Noah's Gold,123.98,Win
+5,Aaron Rodgers Newest Victim,173.76,Daddy Fat Sacks,95.8,Win
+5,Aaron Rodgers Newest Victim,173.76,Chris Hart Attack,186.82,Loss
+5,Aaron Rodgers Newest Victim,173.76,East Palestine's Most Wanted,127.14,Win
+5,Aaron Rodgers Newest Victim,173.76,Very Polite Boys,121.06,Win
+5,Drake Maye,166.36,Aaron Rodgers Newest Victim,173.76,Loss
+5,Drake Maye,166.36,Sixty-Niners,102.4,Win
+5,Drake Maye,166.36,My Lung Hurts,99.18,Win
+5,Drake Maye,166.36,Wet Dawgs,136.22,Win
+5,Drake Maye,166.36,CeeDeez Nuts,124.08,Win
+5,Drake Maye,166.36,I’ll OKLA-OWN-YA,108.86,Win
+5,Drake Maye,166.36,Noah's Gold,123.98,Win
+5,Drake Maye,166.36,Daddy Fat Sacks,95.8,Win
+5,Drake Maye,166.36,Chris Hart Attack,186.82,Loss
+5,Drake Maye,166.36,East Palestine's Most Wanted,127.14,Win
+5,Drake Maye,166.36,Very Polite Boys,121.06,Win
+5,Sixty-Niners,102.4,Aaron Rodgers Newest Victim,173.76,Loss
+5,Sixty-Niners,102.4,Drake Maye,166.36,Loss
+5,Sixty-Niners,102.4,My Lung Hurts,99.18,Win
+5,Sixty-Niners,102.4,Wet Dawgs,136.22,Loss
+5,Sixty-Niners,102.4,CeeDeez Nuts,124.08,Loss
+5,Sixty-Niners,102.4,I’ll OKLA-OWN-YA,108.86,Loss
+5,Sixty-Niners,102.4,Noah's Gold,123.98,Loss
+5,Sixty-Niners,102.4,Daddy Fat Sacks,95.8,Win
+5,Sixty-Niners,102.4,Chris Hart Attack,186.82,Loss
+5,Sixty-Niners,102.4,East Palestine's Most Wanted,127.14,Loss
+5,Sixty-Niners,102.4,Very Polite Boys,121.06,Loss
+5,My Lung Hurts,99.18,Aaron Rodgers Newest Victim,173.76,Loss
+5,My Lung Hurts,99.18,Drake Maye,166.36,Loss
+5,My Lung Hurts,99.18,Sixty-Niners,102.4,Loss
+5,My Lung Hurts,99.18,Wet Dawgs,136.22,Loss
+5,My Lung Hurts,99.18,CeeDeez Nuts,124.08,Loss
+5,My Lung Hurts,99.18,I’ll OKLA-OWN-YA,108.86,Loss
+5,My Lung Hurts,99.18,Noah's Gold,123.98,Loss
+5,My Lung Hurts,99.18,Daddy Fat Sacks,95.8,Win
+5,My Lung Hurts,99.18,Chris Hart Attack,186.82,Loss
+5,My Lung Hurts,99.18,East Palestine's Most Wanted,127.14,Loss
+5,My Lung Hurts,99.18,Very Polite Boys,121.06,Loss
+5,Wet Dawgs,136.22,Aaron Rodgers Newest Victim,173.76,Loss
+5,Wet Dawgs,136.22,Drake Maye,166.36,Loss
+5,Wet Dawgs,136.22,Sixty-Niners,102.4,Win
+5,Wet Dawgs,136.22,My Lung Hurts,99.18,Win
+5,Wet Dawgs,136.22,CeeDeez Nuts,124.08,Win
+5,Wet Dawgs,136.22,I’ll OKLA-OWN-YA,108.86,Win
+5,Wet Dawgs,136.22,Noah's Gold,123.98,Win
+5,Wet Dawgs,136.22,Daddy Fat Sacks,95.8,Win
+5,Wet Dawgs,136.22,Chris Hart Attack,186.82,Loss
+5,Wet Dawgs,136.22,East Palestine's Most Wanted,127.14,Win
+5,Wet Dawgs,136.22,Very Polite Boys,121.06,Win
+5,CeeDeez Nuts,124.08,Aaron Rodgers Newest Victim,173.76,Loss
+5,CeeDeez Nuts,124.08,Drake Maye,166.36,Loss
+5,CeeDeez Nuts,124.08,Sixty-Niners,102.4,Win
+5,CeeDeez Nuts,124.08,My Lung Hurts,99.18,Win
+5,CeeDeez Nuts,124.08,Wet Dawgs,136.22,Loss
+5,CeeDeez Nuts,124.08,I’ll OKLA-OWN-YA,108.86,Win
+5,CeeDeez Nuts,124.08,Noah's Gold,123.98,Win
+5,CeeDeez Nuts,124.08,Daddy Fat Sacks,95.8,Win
+5,CeeDeez Nuts,124.08,Chris Hart Attack,186.82,Loss
+5,CeeDeez Nuts,124.08,East Palestine's Most Wanted,127.14,Loss
+5,CeeDeez Nuts,124.08,Very Polite Boys,121.06,Win
+5,I’ll OKLA-OWN-YA,108.86,Aaron Rodgers Newest Victim,173.76,Loss
+5,I’ll OKLA-OWN-YA,108.86,Drake Maye,166.36,Loss
+5,I’ll OKLA-OWN-YA,108.86,Sixty-Niners,102.4,Win
+5,I’ll OKLA-OWN-YA,108.86,My Lung Hurts,99.18,Win
+5,I’ll OKLA-OWN-YA,108.86,Wet Dawgs,136.22,Loss
+5,I’ll OKLA-OWN-YA,108.86,CeeDeez Nuts,124.08,Loss
+5,I’ll OKLA-OWN-YA,108.86,Noah's Gold,123.98,Loss
+5,I’ll OKLA-OWN-YA,108.86,Daddy Fat Sacks,95.8,Win
+5,I’ll OKLA-OWN-YA,108.86,Chris Hart Attack,186.82,Loss
+5,I’ll OKLA-OWN-YA,108.86,East Palestine's Most Wanted,127.14,Loss
+5,I’ll OKLA-OWN-YA,108.86,Very Polite Boys,121.06,Loss
+5,Noah's Gold,123.98,Aaron Rodgers Newest Victim,173.76,Loss
+5,Noah's Gold,123.98,Drake Maye,166.36,Loss
+5,Noah's Gold,123.98,Sixty-Niners,102.4,Win
+5,Noah's Gold,123.98,My Lung Hurts,99.18,Win
+5,Noah's Gold,123.98,Wet Dawgs,136.22,Loss
+5,Noah's Gold,123.98,CeeDeez Nuts,124.08,Loss
+5,Noah's Gold,123.98,I’ll OKLA-OWN-YA,108.86,Win
+5,Noah's Gold,123.98,Daddy Fat Sacks,95.8,Win
+5,Noah's Gold,123.98,Chris Hart Attack,186.82,Loss
+5,Noah's Gold,123.98,East Palestine's Most Wanted,127.14,Loss
+5,Noah's Gold,123.98,Very Polite Boys,121.06,Win
+5,Daddy Fat Sacks,95.8,Aaron Rodgers Newest Victim,173.76,Loss
+5,Daddy Fat Sacks,95.8,Drake Maye,166.36,Loss
+5,Daddy Fat Sacks,95.8,Sixty-Niners,102.4,Loss
+5,Daddy Fat Sacks,95.8,My Lung Hurts,99.18,Loss
+5,Daddy Fat Sacks,95.8,Wet Dawgs,136.22,Loss
+5,Daddy Fat Sacks,95.8,CeeDeez Nuts,124.08,Loss
+5,Daddy Fat Sacks,95.8,I’ll OKLA-OWN-YA,108.86,Loss
+5,Daddy Fat Sacks,95.8,Noah's Gold,123.98,Loss
+5,Daddy Fat Sacks,95.8,Chris Hart Attack,186.82,Loss
+5,Daddy Fat Sacks,95.8,East Palestine's Most Wanted,127.14,Loss
+5,Daddy Fat Sacks,95.8,Very Polite Boys,121.06,Loss
+5,Chris Hart Attack,186.82,Aaron Rodgers Newest Victim,173.76,Win
+5,Chris Hart Attack,186.82,Drake Maye,166.36,Win
+5,Chris Hart Attack,186.82,Sixty-Niners,102.4,Win
+5,Chris Hart Attack,186.82,My Lung Hurts,99.18,Win
+5,Chris Hart Attack,186.82,Wet Dawgs,136.22,Win
+5,Chris Hart Attack,186.82,CeeDeez Nuts,124.08,Win
+5,Chris Hart Attack,186.82,I’ll OKLA-OWN-YA,108.86,Win
+5,Chris Hart Attack,186.82,Noah's Gold,123.98,Win
+5,Chris Hart Attack,186.82,Daddy Fat Sacks,95.8,Win
+5,Chris Hart Attack,186.82,East Palestine's Most Wanted,127.14,Win
+5,Chris Hart Attack,186.82,Very Polite Boys,121.06,Win
+5,East Palestine's Most Wanted,127.14,Aaron Rodgers Newest Victim,173.76,Loss
+5,East Palestine's Most Wanted,127.14,Drake Maye,166.36,Loss
+5,East Palestine's Most Wanted,127.14,Sixty-Niners,102.4,Win
+5,East Palestine's Most Wanted,127.14,My Lung Hurts,99.18,Win
+5,East Palestine's Most Wanted,127.14,Wet Dawgs,136.22,Loss
+5,East Palestine's Most Wanted,127.14,CeeDeez Nuts,124.08,Win
+5,East Palestine's Most Wanted,127.14,I’ll OKLA-OWN-YA,108.86,Win
+5,East Palestine's Most Wanted,127.14,Noah's Gold,123.98,Win
+5,East Palestine's Most Wanted,127.14,Daddy Fat Sacks,95.8,Win
+5,East Palestine's Most Wanted,127.14,Chris Hart Attack,186.82,Loss
+5,East Palestine's Most Wanted,127.14,Very Polite Boys,121.06,Win
+5,Very Polite Boys,121.06,Aaron Rodgers Newest Victim,173.76,Loss
+5,Very Polite Boys,121.06,Drake Maye,166.36,Loss
+5,Very Polite Boys,121.06,Sixty-Niners,102.4,Win
+5,Very Polite Boys,121.06,My Lung Hurts,99.18,Win
+5,Very Polite Boys,121.06,Wet Dawgs,136.22,Loss
+5,Very Polite Boys,121.06,CeeDeez Nuts,124.08,Loss
+5,Very Polite Boys,121.06,I’ll OKLA-OWN-YA,108.86,Win
+5,Very Polite Boys,121.06,Noah's Gold,123.98,Loss
+5,Very Polite Boys,121.06,Daddy Fat Sacks,95.8,Win
+5,Very Polite Boys,121.06,Chris Hart Attack,186.82,Loss
+5,Very Polite Boys,121.06,East Palestine's Most Wanted,127.14,Loss
+6,My Lung Hurts,105.28,CeeDeez Nuts,124.44,Loss
+6,My Lung Hurts,105.28,Noah's Gold,138.78,Loss
+6,My Lung Hurts,105.28,Drake Maye,115.22,Loss
+6,My Lung Hurts,105.28,Chris Hart Attack,114.92,Loss
+6,My Lung Hurts,105.28,Sixty-Niners,95.46,Win
+6,My Lung Hurts,105.28,Very Polite Boys,124.48,Loss
+6,My Lung Hurts,105.28,Wet Dawgs,143.24,Loss
+6,My Lung Hurts,105.28,Daddy Fat Sacks,94.22,Win
+6,My Lung Hurts,105.28,Sean's Hart,120.96,Loss
+6,My Lung Hurts,105.28,East Palestine's Most Wanted,123.64,Loss
+6,My Lung Hurts,105.28,I’ll OKLA-OWN-YA,118.0,Loss
+6,CeeDeez Nuts,124.44,My Lung Hurts,105.28,Win
+6,CeeDeez Nuts,124.44,Noah's Gold,138.78,Loss
+6,CeeDeez Nuts,124.44,Drake Maye,115.22,Win
+6,CeeDeez Nuts,124.44,Chris Hart Attack,114.92,Win
+6,CeeDeez Nuts,124.44,Sixty-Niners,95.46,Win
+6,CeeDeez Nuts,124.44,Very Polite Boys,124.48,Loss
+6,CeeDeez Nuts,124.44,Wet Dawgs,143.24,Loss
+6,CeeDeez Nuts,124.44,Daddy Fat Sacks,94.22,Win
+6,CeeDeez Nuts,124.44,Sean's Hart,120.96,Win
+6,CeeDeez Nuts,124.44,East Palestine's Most Wanted,123.64,Win
+6,CeeDeez Nuts,124.44,I’ll OKLA-OWN-YA,118.0,Win
+6,Noah's Gold,138.78,My Lung Hurts,105.28,Win
+6,Noah's Gold,138.78,CeeDeez Nuts,124.44,Win
+6,Noah's Gold,138.78,Drake Maye,115.22,Win
+6,Noah's Gold,138.78,Chris Hart Attack,114.92,Win
+6,Noah's Gold,138.78,Sixty-Niners,95.46,Win
+6,Noah's Gold,138.78,Very Polite Boys,124.48,Win
+6,Noah's Gold,138.78,Wet Dawgs,143.24,Loss
+6,Noah's Gold,138.78,Daddy Fat Sacks,94.22,Win
+6,Noah's Gold,138.78,Sean's Hart,120.96,Win
+6,Noah's Gold,138.78,East Palestine's Most Wanted,123.64,Win
+6,Noah's Gold,138.78,I’ll OKLA-OWN-YA,118.0,Win
+6,Drake Maye,115.22,My Lung Hurts,105.28,Win
+6,Drake Maye,115.22,CeeDeez Nuts,124.44,Loss
+6,Drake Maye,115.22,Noah's Gold,138.78,Loss
+6,Drake Maye,115.22,Chris Hart Attack,114.92,Win
+6,Drake Maye,115.22,Sixty-Niners,95.46,Win
+6,Drake Maye,115.22,Very Polite Boys,124.48,Loss
+6,Drake Maye,115.22,Wet Dawgs,143.24,Loss
+6,Drake Maye,115.22,Daddy Fat Sacks,94.22,Win
+6,Drake Maye,115.22,Sean's Hart,120.96,Loss
+6,Drake Maye,115.22,East Palestine's Most Wanted,123.64,Loss
+6,Drake Maye,115.22,I’ll OKLA-OWN-YA,118.0,Loss
+6,Chris Hart Attack,114.92,My Lung Hurts,105.28,Win
+6,Chris Hart Attack,114.92,CeeDeez Nuts,124.44,Loss
+6,Chris Hart Attack,114.92,Noah's Gold,138.78,Loss
+6,Chris Hart Attack,114.92,Drake Maye,115.22,Loss
+6,Chris Hart Attack,114.92,Sixty-Niners,95.46,Win
+6,Chris Hart Attack,114.92,Very Polite Boys,124.48,Loss
+6,Chris Hart Attack,114.92,Wet Dawgs,143.24,Loss
+6,Chris Hart Attack,114.92,Daddy Fat Sacks,94.22,Win
+6,Chris Hart Attack,114.92,Sean's Hart,120.96,Loss
+6,Chris Hart Attack,114.92,East Palestine's Most Wanted,123.64,Loss
+6,Chris Hart Attack,114.92,I’ll OKLA-OWN-YA,118.0,Loss
+6,Sixty-Niners,95.46,My Lung Hurts,105.28,Loss
+6,Sixty-Niners,95.46,CeeDeez Nuts,124.44,Loss
+6,Sixty-Niners,95.46,Noah's Gold,138.78,Loss
+6,Sixty-Niners,95.46,Drake Maye,115.22,Loss
+6,Sixty-Niners,95.46,Chris Hart Attack,114.92,Loss
+6,Sixty-Niners,95.46,Very Polite Boys,124.48,Loss
+6,Sixty-Niners,95.46,Wet Dawgs,143.24,Loss
+6,Sixty-Niners,95.46,Daddy Fat Sacks,94.22,Win
+6,Sixty-Niners,95.46,Sean's Hart,120.96,Loss
+6,Sixty-Niners,95.46,East Palestine's Most Wanted,123.64,Loss
+6,Sixty-Niners,95.46,I’ll OKLA-OWN-YA,118.0,Loss
+6,Very Polite Boys,124.48,My Lung Hurts,105.28,Win
+6,Very Polite Boys,124.48,CeeDeez Nuts,124.44,Win
+6,Very Polite Boys,124.48,Noah's Gold,138.78,Loss
+6,Very Polite Boys,124.48,Drake Maye,115.22,Win
+6,Very Polite Boys,124.48,Chris Hart Attack,114.92,Win
+6,Very Polite Boys,124.48,Sixty-Niners,95.46,Win
+6,Very Polite Boys,124.48,Wet Dawgs,143.24,Loss
+6,Very Polite Boys,124.48,Daddy Fat Sacks,94.22,Win
+6,Very Polite Boys,124.48,Sean's Hart,120.96,Win
+6,Very Polite Boys,124.48,East Palestine's Most Wanted,123.64,Win
+6,Very Polite Boys,124.48,I’ll OKLA-OWN-YA,118.0,Win
+6,Wet Dawgs,143.24,My Lung Hurts,105.28,Win
+6,Wet Dawgs,143.24,CeeDeez Nuts,124.44,Win
+6,Wet Dawgs,143.24,Noah's Gold,138.78,Win
+6,Wet Dawgs,143.24,Drake Maye,115.22,Win
+6,Wet Dawgs,143.24,Chris Hart Attack,114.92,Win
+6,Wet Dawgs,143.24,Sixty-Niners,95.46,Win
+6,Wet Dawgs,143.24,Very Polite Boys,124.48,Win
+6,Wet Dawgs,143.24,Daddy Fat Sacks,94.22,Win
+6,Wet Dawgs,143.24,Sean's Hart,120.96,Win
+6,Wet Dawgs,143.24,East Palestine's Most Wanted,123.64,Win
+6,Wet Dawgs,143.24,I’ll OKLA-OWN-YA,118.0,Win
+6,Daddy Fat Sacks,94.22,My Lung Hurts,105.28,Loss
+6,Daddy Fat Sacks,94.22,CeeDeez Nuts,124.44,Loss
+6,Daddy Fat Sacks,94.22,Noah's Gold,138.78,Loss
+6,Daddy Fat Sacks,94.22,Drake Maye,115.22,Loss
+6,Daddy Fat Sacks,94.22,Chris Hart Attack,114.92,Loss
+6,Daddy Fat Sacks,94.22,Sixty-Niners,95.46,Loss
+6,Daddy Fat Sacks,94.22,Very Polite Boys,124.48,Loss
+6,Daddy Fat Sacks,94.22,Wet Dawgs,143.24,Loss
+6,Daddy Fat Sacks,94.22,Sean's Hart,120.96,Loss
+6,Daddy Fat Sacks,94.22,East Palestine's Most Wanted,123.64,Loss
+6,Daddy Fat Sacks,94.22,I’ll OKLA-OWN-YA,118.0,Loss
+6,Sean's Hart,120.96,My Lung Hurts,105.28,Win
+6,Sean's Hart,120.96,CeeDeez Nuts,124.44,Loss
+6,Sean's Hart,120.96,Noah's Gold,138.78,Loss
+6,Sean's Hart,120.96,Drake Maye,115.22,Win
+6,Sean's Hart,120.96,Chris Hart Attack,114.92,Win
+6,Sean's Hart,120.96,Sixty-Niners,95.46,Win
+6,Sean's Hart,120.96,Very Polite Boys,124.48,Loss
+6,Sean's Hart,120.96,Wet Dawgs,143.24,Loss
+6,Sean's Hart,120.96,Daddy Fat Sacks,94.22,Win
+6,Sean's Hart,120.96,East Palestine's Most Wanted,123.64,Loss
+6,Sean's Hart,120.96,I’ll OKLA-OWN-YA,118.0,Win
+6,East Palestine's Most Wanted,123.64,My Lung Hurts,105.28,Win
+6,East Palestine's Most Wanted,123.64,CeeDeez Nuts,124.44,Loss
+6,East Palestine's Most Wanted,123.64,Noah's Gold,138.78,Loss
+6,East Palestine's Most Wanted,123.64,Drake Maye,115.22,Win
+6,East Palestine's Most Wanted,123.64,Chris Hart Attack,114.92,Win
+6,East Palestine's Most Wanted,123.64,Sixty-Niners,95.46,Win
+6,East Palestine's Most Wanted,123.64,Very Polite Boys,124.48,Loss
+6,East Palestine's Most Wanted,123.64,Wet Dawgs,143.24,Loss
+6,East Palestine's Most Wanted,123.64,Daddy Fat Sacks,94.22,Win
+6,East Palestine's Most Wanted,123.64,Sean's Hart,120.96,Win
+6,East Palestine's Most Wanted,123.64,I’ll OKLA-OWN-YA,118.0,Win
+6,I’ll OKLA-OWN-YA,118.0,My Lung Hurts,105.28,Win
+6,I’ll OKLA-OWN-YA,118.0,CeeDeez Nuts,124.44,Loss
+6,I’ll OKLA-OWN-YA,118.0,Noah's Gold,138.78,Loss
+6,I’ll OKLA-OWN-YA,118.0,Drake Maye,115.22,Win
+6,I’ll OKLA-OWN-YA,118.0,Chris Hart Attack,114.92,Win
+6,I’ll OKLA-OWN-YA,118.0,Sixty-Niners,95.46,Win
+6,I’ll OKLA-OWN-YA,118.0,Very Polite Boys,124.48,Loss
+6,I’ll OKLA-OWN-YA,118.0,Wet Dawgs,143.24,Loss
+6,I’ll OKLA-OWN-YA,118.0,Daddy Fat Sacks,94.22,Win
+6,I’ll OKLA-OWN-YA,118.0,Sean's Hart,120.96,Loss
+6,I’ll OKLA-OWN-YA,118.0,East Palestine's Most Wanted,123.64,Loss
+7,My Lung Hurts,120.24,Chris Hart Attack,146.2,Loss
+7,My Lung Hurts,120.24,CeeDeez Nuts,144.52,Loss
+7,My Lung Hurts,120.24,Very Polite Boys,125.52,Loss
+7,My Lung Hurts,120.24,Aaron Rodgers Newest Victim,105.68,Win
+7,My Lung Hurts,120.24,Daddy Fat Sacks,116.6,Win
+7,My Lung Hurts,120.24,Drake Maye,115.32,Win
+7,My Lung Hurts,120.24,East Palestine's Most Wanted,98.54,Win
+7,My Lung Hurts,120.24,Sixty-Niners,111.24,Win
+7,My Lung Hurts,120.24,Sean's Hart,127.6,Loss
+7,My Lung Hurts,120.24,Wet Dawgs,91.68,Win
+7,My Lung Hurts,120.24,I’ll OKLA-OWN-YA,93.9,Win
+7,Chris Hart Attack,146.2,My Lung Hurts,120.24,Win
+7,Chris Hart Attack,146.2,CeeDeez Nuts,144.52,Win
+7,Chris Hart Attack,146.2,Very Polite Boys,125.52,Win
+7,Chris Hart Attack,146.2,Aaron Rodgers Newest Victim,105.68,Win
+7,Chris Hart Attack,146.2,Daddy Fat Sacks,116.6,Win
+7,Chris Hart Attack,146.2,Drake Maye,115.32,Win
+7,Chris Hart Attack,146.2,East Palestine's Most Wanted,98.54,Win
+7,Chris Hart Attack,146.2,Sixty-Niners,111.24,Win
+7,Chris Hart Attack,146.2,Sean's Hart,127.6,Win
+7,Chris Hart Attack,146.2,Wet Dawgs,91.68,Win
+7,Chris Hart Attack,146.2,I’ll OKLA-OWN-YA,93.9,Win
+7,CeeDeez Nuts,144.52,My Lung Hurts,120.24,Win
+7,CeeDeez Nuts,144.52,Chris Hart Attack,146.2,Loss
+7,CeeDeez Nuts,144.52,Very Polite Boys,125.52,Win
+7,CeeDeez Nuts,144.52,Aaron Rodgers Newest Victim,105.68,Win
+7,CeeDeez Nuts,144.52,Daddy Fat Sacks,116.6,Win
+7,CeeDeez Nuts,144.52,Drake Maye,115.32,Win
+7,CeeDeez Nuts,144.52,East Palestine's Most Wanted,98.54,Win
+7,CeeDeez Nuts,144.52,Sixty-Niners,111.24,Win
+7,CeeDeez Nuts,144.52,Sean's Hart,127.6,Win
+7,CeeDeez Nuts,144.52,Wet Dawgs,91.68,Win
+7,CeeDeez Nuts,144.52,I’ll OKLA-OWN-YA,93.9,Win
+7,Very Polite Boys,125.52,My Lung Hurts,120.24,Win
+7,Very Polite Boys,125.52,Chris Hart Attack,146.2,Loss
+7,Very Polite Boys,125.52,CeeDeez Nuts,144.52,Loss
+7,Very Polite Boys,125.52,Aaron Rodgers Newest Victim,105.68,Win
+7,Very Polite Boys,125.52,Daddy Fat Sacks,116.6,Win
+7,Very Polite Boys,125.52,Drake Maye,115.32,Win
+7,Very Polite Boys,125.52,East Palestine's Most Wanted,98.54,Win
+7,Very Polite Boys,125.52,Sixty-Niners,111.24,Win
+7,Very Polite Boys,125.52,Sean's Hart,127.6,Loss
+7,Very Polite Boys,125.52,Wet Dawgs,91.68,Win
+7,Very Polite Boys,125.52,I’ll OKLA-OWN-YA,93.9,Win
+7,Aaron Rodgers Newest Victim,105.68,My Lung Hurts,120.24,Loss
+7,Aaron Rodgers Newest Victim,105.68,Chris Hart Attack,146.2,Loss
+7,Aaron Rodgers Newest Victim,105.68,CeeDeez Nuts,144.52,Loss
+7,Aaron Rodgers Newest Victim,105.68,Very Polite Boys,125.52,Loss
+7,Aaron Rodgers Newest Victim,105.68,Daddy Fat Sacks,116.6,Loss
+7,Aaron Rodgers Newest Victim,105.68,Drake Maye,115.32,Loss
+7,Aaron Rodgers Newest Victim,105.68,East Palestine's Most Wanted,98.54,Win
+7,Aaron Rodgers Newest Victim,105.68,Sixty-Niners,111.24,Loss
+7,Aaron Rodgers Newest Victim,105.68,Sean's Hart,127.6,Loss
+7,Aaron Rodgers Newest Victim,105.68,Wet Dawgs,91.68,Win
+7,Aaron Rodgers Newest Victim,105.68,I’ll OKLA-OWN-YA,93.9,Win
+7,Daddy Fat Sacks,116.6,My Lung Hurts,120.24,Loss
+7,Daddy Fat Sacks,116.6,Chris Hart Attack,146.2,Loss
+7,Daddy Fat Sacks,116.6,CeeDeez Nuts,144.52,Loss
+7,Daddy Fat Sacks,116.6,Very Polite Boys,125.52,Loss
+7,Daddy Fat Sacks,116.6,Aaron Rodgers Newest Victim,105.68,Win
+7,Daddy Fat Sacks,116.6,Drake Maye,115.32,Win
+7,Daddy Fat Sacks,116.6,East Palestine's Most Wanted,98.54,Win
+7,Daddy Fat Sacks,116.6,Sixty-Niners,111.24,Win
+7,Daddy Fat Sacks,116.6,Sean's Hart,127.6,Loss
+7,Daddy Fat Sacks,116.6,Wet Dawgs,91.68,Win
+7,Daddy Fat Sacks,116.6,I’ll OKLA-OWN-YA,93.9,Win
+7,Drake Maye,115.32,My Lung Hurts,120.24,Loss
+7,Drake Maye,115.32,Chris Hart Attack,146.2,Loss
+7,Drake Maye,115.32,CeeDeez Nuts,144.52,Loss
+7,Drake Maye,115.32,Very Polite Boys,125.52,Loss
+7,Drake Maye,115.32,Aaron Rodgers Newest Victim,105.68,Win
+7,Drake Maye,115.32,Daddy Fat Sacks,116.6,Loss
+7,Drake Maye,115.32,East Palestine's Most Wanted,98.54,Win
+7,Drake Maye,115.32,Sixty-Niners,111.24,Win
+7,Drake Maye,115.32,Sean's Hart,127.6,Loss
+7,Drake Maye,115.32,Wet Dawgs,91.68,Win
+7,Drake Maye,115.32,I’ll OKLA-OWN-YA,93.9,Win
+7,East Palestine's Most Wanted,98.54,My Lung Hurts,120.24,Loss
+7,East Palestine's Most Wanted,98.54,Chris Hart Attack,146.2,Loss
+7,East Palestine's Most Wanted,98.54,CeeDeez Nuts,144.52,Loss
+7,East Palestine's Most Wanted,98.54,Very Polite Boys,125.52,Loss
+7,East Palestine's Most Wanted,98.54,Aaron Rodgers Newest Victim,105.68,Loss
+7,East Palestine's Most Wanted,98.54,Daddy Fat Sacks,116.6,Loss
+7,East Palestine's Most Wanted,98.54,Drake Maye,115.32,Loss
+7,East Palestine's Most Wanted,98.54,Sixty-Niners,111.24,Loss
+7,East Palestine's Most Wanted,98.54,Sean's Hart,127.6,Loss
+7,East Palestine's Most Wanted,98.54,Wet Dawgs,91.68,Win
+7,East Palestine's Most Wanted,98.54,I’ll OKLA-OWN-YA,93.9,Win
+7,Sixty-Niners,111.24,My Lung Hurts,120.24,Loss
+7,Sixty-Niners,111.24,Chris Hart Attack,146.2,Loss
+7,Sixty-Niners,111.24,CeeDeez Nuts,144.52,Loss
+7,Sixty-Niners,111.24,Very Polite Boys,125.52,Loss
+7,Sixty-Niners,111.24,Aaron Rodgers Newest Victim,105.68,Win
+7,Sixty-Niners,111.24,Daddy Fat Sacks,116.6,Loss
+7,Sixty-Niners,111.24,Drake Maye,115.32,Loss
+7,Sixty-Niners,111.24,East Palestine's Most Wanted,98.54,Win
+7,Sixty-Niners,111.24,Sean's Hart,127.6,Loss
+7,Sixty-Niners,111.24,Wet Dawgs,91.68,Win
+7,Sixty-Niners,111.24,I’ll OKLA-OWN-YA,93.9,Win
+7,Sean's Hart,127.6,My Lung Hurts,120.24,Win
+7,Sean's Hart,127.6,Chris Hart Attack,146.2,Loss
+7,Sean's Hart,127.6,CeeDeez Nuts,144.52,Loss
+7,Sean's Hart,127.6,Very Polite Boys,125.52,Win
+7,Sean's Hart,127.6,Aaron Rodgers Newest Victim,105.68,Win
+7,Sean's Hart,127.6,Daddy Fat Sacks,116.6,Win
+7,Sean's Hart,127.6,Drake Maye,115.32,Win
+7,Sean's Hart,127.6,East Palestine's Most Wanted,98.54,Win
+7,Sean's Hart,127.6,Sixty-Niners,111.24,Win
+7,Sean's Hart,127.6,Wet Dawgs,91.68,Win
+7,Sean's Hart,127.6,I’ll OKLA-OWN-YA,93.9,Win
+7,Wet Dawgs,91.68,My Lung Hurts,120.24,Loss
+7,Wet Dawgs,91.68,Chris Hart Attack,146.2,Loss
+7,Wet Dawgs,91.68,CeeDeez Nuts,144.52,Loss
+7,Wet Dawgs,91.68,Very Polite Boys,125.52,Loss
+7,Wet Dawgs,91.68,Aaron Rodgers Newest Victim,105.68,Loss
+7,Wet Dawgs,91.68,Daddy Fat Sacks,116.6,Loss
+7,Wet Dawgs,91.68,Drake Maye,115.32,Loss
+7,Wet Dawgs,91.68,East Palestine's Most Wanted,98.54,Loss
+7,Wet Dawgs,91.68,Sixty-Niners,111.24,Loss
+7,Wet Dawgs,91.68,Sean's Hart,127.6,Loss
+7,Wet Dawgs,91.68,I’ll OKLA-OWN-YA,93.9,Loss
+7,I’ll OKLA-OWN-YA,93.9,My Lung Hurts,120.24,Loss
+7,I’ll OKLA-OWN-YA,93.9,Chris Hart Attack,146.2,Loss
+7,I’ll OKLA-OWN-YA,93.9,CeeDeez Nuts,144.52,Loss
+7,I’ll OKLA-OWN-YA,93.9,Very Polite Boys,125.52,Loss
+7,I’ll OKLA-OWN-YA,93.9,Aaron Rodgers Newest Victim,105.68,Loss
+7,I’ll OKLA-OWN-YA,93.9,Daddy Fat Sacks,116.6,Loss
+7,I’ll OKLA-OWN-YA,93.9,Drake Maye,115.32,Loss
+7,I’ll OKLA-OWN-YA,93.9,East Palestine's Most Wanted,98.54,Loss
+7,I’ll OKLA-OWN-YA,93.9,Sixty-Niners,111.24,Loss
+7,I’ll OKLA-OWN-YA,93.9,Sean's Hart,127.6,Loss
+7,I’ll OKLA-OWN-YA,93.9,Wet Dawgs,91.68,Win
