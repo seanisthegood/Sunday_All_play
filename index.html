@@ -127,5 +127,54 @@ section{border:1px solid #c1caf1;border-radius:2px;padding:14px 12px 0;margin-to
 /* LEAGUE CREST — replaces the helmet and field banner. */
 .league-logo{display:block;width:200px;height:auto;flex-shrink:0;object-fit:contain;margin-right: 150px;}
 @media(max-width:650px){.league-logo{width:86px}.nameplate{align-items:center}}
-</style></head><body><main><p id="loadStatus" role="status">Loading league data…</p><div id="dashboard" hidden><header class="masthead"><div class="edition"><span>★ ★ ★ SEASON STATS ★ ★ ★</span><span id="editionRange">2026 SEASON</span></div><div class="nameplate"><div><div class="eyebrow">FANTASY FOOTBALL · ALL-PLAY LEAGUE</div><h1>The Sunday All-Play</h1><div class="ticker"></div><h>Results of simulating if each team played every team each week</h1><h4><div></div><b>This removes the "luck of the draw element" to wins and losses</h4></div><img class="league-logo" src="./images/brooklyn-bowl.png" alt="Brooklyn Bowl football shield" width="1104" height="1424"></div></header><div class="controls"><button id="without" aria-pressed="false">Without byes</button><button id="with" aria-pressed="true">With byes</button><span id="mode" class="note">Bye scores count in points and all-play.</span></div><div id="cards" class="cards" aria-label="From the sports desk"></div><section><div class="head"><div><h2>Overall standings</h2><div class="note" id="standNote"></div></div><span class="note">Click a column heading to sort</span></div><div class="scroll"><table id="standings" aria-label="Overall standings"></table></div></section><section class="matchups"><div class="head"><div><h2 id="title">Week 7 · All-play matrix</h2><div class="note">Row team vs column opponent. Scroll sideways to see every matchup.</div></div><label>View <select id="week" aria-label="Select week or season cumulative"></select></label></div><div class="viewbar"><div class="viewbuttons"><button id="teamView" aria-pressed="false">One team</button><button id="matrixView" aria-pressed="true">Full matrix</button></div><label id="teamPickerLabel" hidden="">Follow <select id="teamPicker" aria-label="Choose team"></select></label></div><div id="teamResults" hidden=""></div><div id="fullMatrix"><div class="scroll" tabindex="0" aria-label="Scrollable matchup matrix"><table class="matrix" id="matrix"></table></div><div class="legend">W = win · L = loss · T = tie · — = self or excluded bye.<br>Opponent headers show team names and scores. Select a cell for details.</div><div id="detail" class="legend" role="status" aria-live="polite"></div></div></section><details><summary>Sources &amp; calculation rules</summary><p>Scores load from data/every_team_weekly_scores.csv. Actual records and points against load from data/actual_standings.csv. Update both CSVs for the same reporting period. This is a snapshot, not a live league feed.</p><p>Without byes includes only rows marked Played. Bye teams are excluded as both row team and opponent. With byes includes every recorded score. Points for and weekly averages use the selected pool; actual records and points against remain unchanged. Bye scores are still shown in weekly row labels for reference.</p><p>All-play compares each eligible score with every other eligible score in the same week, excluding self. Equal scores count as ties. Season cells sum those weekly W–L–T results, rather than comparing total season points. Click any standings heading to sort; click again to reverse. Actual and all-play records sort by win rate (ties count as half a win). Equal values use points for, then team name. This is an analytical ranking, not an official league tiebreaker.</p><p>The notebook creates all_play_df_record_bye but later displays all_play_df. The app recalculates from source scores and validates against saved notebook records and the detailed matchup CSV.</p></details><footer><button id="csv">Download matrix CSV</button></footer><p id="notice" role="status"></p></div></main><script src="./app.js" defer></script>
+
+/* Header copy and logo: desktop offset stays local to desktop. */
+.nameplate .header-description{font:bold 18px/1.5 Consolas,monospace;color:#fff;margin:8px 0}
+.nameplate .header-callout{font:bold 16px/1.5 Consolas,monospace;color:#ffe46b;margin:12px 0 0}
+@media(max-width:650px){
+  .nameplate{display:grid;grid-template-columns:minmax(0,1fr) 76px;gap:10px;align-items:center}
+  .header-copy{display:contents}
+  .nameplate .eyebrow{grid-column:1/-1}
+  .nameplate h1{grid-column:1;grid-row:2;font-size:clamp(25px,6.5vw,34px);margin:4px 0;overflow-wrap:normal}
+  .nameplate .league-logo{grid-column:2;grid-row:2;width:76px;max-width:100%;margin:0;justify-self:end}
+  .nameplate .ticker,.nameplate .header-description,.nameplate .header-callout{grid-column:1/-1;margin:0}
+  .nameplate .header-description{font-size:14px;line-height:1.5}
+  .nameplate .header-callout{font-size:13px;line-height:1.5}
+}
+
+/* MOBILE MATRIX — full desktop labels and sizing stay unchanged. */
+.matrix-mobile{display:none}
+@media(max-width:650px){
+  .matrix .matrix-desktop{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+  .matrix .matrix-mobile{display:inline}
+  .matrix{font-size:11px;min-width:0}
+  .matrix td,.matrix th{width:44px;min-width:44px;max-width:44px;padding:8px 3px}
+  .matrix th{font-size:10px;line-height:1.25;overflow-wrap:normal}
+  .matrix th small{font-size:9px;letter-spacing:-.5px;white-space:normal;overflow-wrap:normal}
+  .matrix td[data-a]{font-size:18px;letter-spacing:0;padding:10px 3px}
+  .matrix td:first-child,.matrix th:first-child{width:112px;min-width:112px;max-width:112px;left:0;font-size:11px;padding:8px 5px;line-height:1.3}
+  .matrix td:first-child .rank{display:none}
+  .matrix td:first-child small{font-size:10px;line-height:1.3;margin-top:3px}
+  .matrix .total,.matrix .total-heading{position:sticky;left:112px;width:54px;min-width:54px;max-width:54px;background:#203b92;font-size:12px;z-index:1;border-right:2px solid #c1caf1}
+  .matrix .total-heading{top:0;font-size:9px;color:#53e1ff;z-index:3}
+  .matrix th:first-child{z-index:4}
+  .matrix.season-matrix td[data-a]{font-size:15px;letter-spacing:-.5px}
+  .matrix.season-matrix td:not(:first-child):not(.total),.matrix.season-matrix th:not(:first-child):not(.total-heading){width:52px;min-width:52px;max-width:52px}
+}
+
+/* Small team helmets are inline vectors, requiring no extra image files. */
+.team-helmet{width:24px;height:22px;flex-shrink:0;vertical-align:middle;display:inline-block;margin-right:6px}
+.team-name{display:inline-flex;align-items:center;gap:0;vertical-align:middle;max-width:100%}
+.team-name>span{min-width:0;overflow-wrap:anywhere}
+#standings td:first-child .team-name{max-width:calc(100% - 26px)}
+.team-summary h3 .team-helmet{width:32px;height:30px;margin-right:10px}
+.opponent>.team-name{min-width:0}
+.matrix .team-helmet{width:20px;height:19px;margin-right:4px}
+@media(max-width:650px){
+  #standings .team-helmet{width:20px;height:19px;margin-right:5px}
+  #standings td:first-child .team-name{max-width:calc(100% - 20px)}
+  .matrix .team-helmet{display:none}
+  .opponent .team-helmet{width:20px;height:19px;margin-right:5px}
+}
+</style></head><body><main><p id="loadStatus" role="status">Loading league data…</p><div id="dashboard" hidden><header class="masthead"><div class="edition"><span>★ ★ ★ SEASON STATS ★ ★ ★</span><span id="editionRange">2026 SEASON</span></div><div class="nameplate"><div class="header-copy"><div class="eyebrow">FANTASY FOOTBALL · ALL-PLAY LEAGUE</div><h1>The Sunday All-Play</h1><div class="ticker"></div><p class="header-description">Results of simulating if each team played every team each week</p><p class="header-callout"><b>This removes the "luck of the draw element" to wins and losses</b></p></div><img class="league-logo" src="./images/brooklyn-bowl.png" alt="Brooklyn Bowl football shield" width="1104" height="1424"></div></header><div class="controls"><button id="without" aria-pressed="false">Without byes</button><button id="with" aria-pressed="true">With byes</button><span id="mode" class="note">Bye scores count in points and all-play.</span></div><div id="cards" class="cards" aria-label="From the sports desk"></div><section><div class="head"><div><h2>Overall standings</h2><div class="note" id="standNote"></div></div><span class="note">Click a column heading to sort</span></div><div class="scroll"><table id="standings" aria-label="Overall standings"></table></div></section><section class="matchups"><div class="head"><div><h2 id="title">Week 7 · All-play matrix</h2><div class="note">Row team vs column opponent. Scroll sideways to see every matchup.</div></div><label>View <select id="week" aria-label="Select week or season cumulative"></select></label></div><div class="viewbar"><div class="viewbuttons"><button id="teamView" aria-pressed="false">One team</button><button id="matrixView" aria-pressed="true">Full matrix</button></div><label id="teamPickerLabel" hidden="">Follow <select id="teamPicker" aria-label="Choose team"></select></label></div><div id="teamResults" hidden=""></div><div id="fullMatrix"><div class="scroll" tabindex="0" aria-label="Scrollable matchup matrix"><table class="matrix" id="matrix"></table></div><div class="legend">W = win · L = loss · T = tie · — = self or excluded bye.<br>Opponent headers show team names and scores. Select a cell for details.</div><div id="detail" class="legend" role="status" aria-live="polite"></div></div></section><details><summary>Sources &amp; calculation rules</summary><p>Scores load from data/every_team_weekly_scores.csv. Actual records and points against load from data/actual_standings.csv. Update both CSVs for the same reporting period. This is a snapshot, not a live league feed.</p><p>Without byes includes only rows marked Played. Bye teams are excluded as both row team and opponent. With byes includes every recorded score. Points for and weekly averages use the selected pool; actual records and points against remain unchanged. Bye scores are still shown in weekly row labels for reference.</p><p>All-play compares each eligible score with every other eligible score in the same week, excluding self. Equal scores count as ties. Season cells sum those weekly W–L–T results, rather than comparing total season points. Click any standings heading to sort; click again to reverse. Actual and all-play records sort by win rate (ties count as half a win). Equal values use points for, then team name. This is an analytical ranking, not an official league tiebreaker.</p><p>The notebook creates all_play_df_record_bye but later displays all_play_df. The app recalculates from source scores and validates against saved notebook records and the detailed matchup CSV.</p></details><footer><button id="csv">Download matrix CSV</button></footer><p id="notice" role="status"></p></div></main><script src="./app.js" defer></script>
 </body></html>
